@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "360821717088",
+    "firebase_url": "https://pollosdelmonte-eff14.firebaseio.com",
+    "project_id": "pollosdelmonte-eff14",
+    "storage_bucket": "pollosdelmonte-eff14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360821717088:android:6a016a49211bfb8e",
+        "android_client_info": {
+          "package_name": "com.example.obed.pollosdelmonte"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360821717088-b0sgojuk70tb2l7mttbku22ujr9v8jbn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.obed.pollosdelmonte",
+            "certificate_hash": "364a45a9598b7719a39fda0e97d648d997be532c"
+          }
+        },
+        {
+          "client_id": "360821717088-gm7rq1d3dl8p24s3jc7ctgkej18t3omd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdmJhiUB3igjON31u74G0IRx4-UxVt-7E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360821717088-gm7rq1d3dl8p24s3jc7ctgkej18t3omd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
